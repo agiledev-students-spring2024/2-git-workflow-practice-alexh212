@@ -14,3 +14,6 @@ This "augmentation" of our capabilities that is possible from AI reminds me of a
 
 
 Really interesting stuff. Let me know what you think!
+
+## Comments from Rongjian Wang
+I really enjoyed reading this article. It references those past debates about development of technology being disruptive but ultimately leads to job creation. The piece suggests that current anxieties about AI and job displacement actually echo past sentiments, which creates new jobs and promotes economic growth in the long term. To better adapt with the age of AI, people might need to embrace some changes in their original works or cooperate with AI tools to become more productive.
